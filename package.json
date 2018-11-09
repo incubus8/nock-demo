@@ -1,5 +1,5 @@
 {
-  "name": "nested-nock-demo",
+  "name": "nock-demo",
   "version": "1.0.0",
   "description": "Nested Nock Demo",
   "main": "index.js",
