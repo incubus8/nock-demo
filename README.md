@@ -1,4 +1,4 @@
-## Nested Nock Demo
+## Nock Demo
 
 This is the demo for how to use "Nock" to help integration testing.
 
